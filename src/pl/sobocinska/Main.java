@@ -19,4 +19,5 @@ public class Main {
         int[] A = {1, 3, 2};
         System.out.println(isMonotonic(A));
     }
+
 }
