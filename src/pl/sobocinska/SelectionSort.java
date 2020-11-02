@@ -1,6 +1,11 @@
 package pl.sobocinska;
 
-public class Wybieranie {
+/*
+selection sort- wybieram najmniejszą i wsadzam na miejsce na lewo. i tak w koło.
+O(n) = n^2
+every time we selected the smallest element and swap it with the first element and so on
+ */
+public class SelectionSort {
 
     public static void main(String[] args) {
 
